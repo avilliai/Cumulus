@@ -12,6 +12,7 @@
 # Category
 ## 关键词
 [符号消费 (cumulus-clouds.netlify.app)](https://cumulus-clouds.netlify.app/%E7%A2%8E%E7%89%87/%E6%A6%82%E5%BF%B5%E6%8E%A2%E8%AE%A8/%E7%AC%A6%E5%8F%B7%E6%B6%88%E8%B4%B9/)
+[[
 ## 政治学类
 [《当代西方政治思潮》 (cumulus-clouds.netlify.app)](https://cumulus-clouds.netlify.app/%E6%94%BF%E6%B2%BB/%E5%BD%93%E4%BB%A3%E8%A5%BF%E6%96%B9%E6%94%BF%E6%B2%BB%E6%80%9D%E6%BD%AE/00%E5%BC%95%E8%A8%80/)
 [《政治学基础》 (cumulus-clouds.netlify.app)](https://cumulus-clouds.netlify.app/%E6%94%BF%E6%B2%BB/%E6%94%BF%E6%B2%BB%E5%AD%A6%E5%9F%BA%E7%A1%80/1.1%E6%94%BF%E6%B2%BB%E7%9A%84%E5%90%AB%E4%B9%89/)
