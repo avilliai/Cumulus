@@ -37,10 +37,8 @@
 ## 新闻记录
 [01韩国检方以渎职等罪名批准逮捕李在明 (cumulus-clouds.netlify.app)](https://cumulus-clouds.netlify.app/%E7%A2%8E%E7%89%87/%E6%96%B0%E9%97%BB%E7%A2%8E%E7%89%87/01%E9%9F%A9%E5%9B%BD%E6%A3%80%E6%96%B9%E4%BB%A5%E6%B8%8E%E8%81%8C%E7%AD%89%E7%BD%AA%E5%90%8D%E6%89%B9%E5%87%86%E9%80%AE%E6%8D%95%E6%9D%8E%E5%9C%A8%E6%98%8E/)
 
-
-# 友链
-[raonb的芝士库](https://raonb.netlify.app/)
-
+# 正念的jing'yan
+==“即受观受，即⼼观⼼。“==
 ```
 化为树篱中静静坐着的芽， 
 化为微笑，成为这不可思议的存在的⼀部分， 
@@ -48,3 +46,7 @@
 这块⼟地，就像我⼉时的故⼟那样美丽， 请不要伤害它，请继续歌唱。
 								——《⾦芥菜花⽥上的蝴蝶》
 ```
+
+# 友链
+[raonb的芝士库](https://raonb.netlify.app/)
+
