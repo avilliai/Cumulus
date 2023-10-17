@@ -38,7 +38,7 @@
 
 ## 新闻记录
 [01韩国检方以渎职等罪名批准逮捕李在明 (cumulus-clouds.netlify.app)](https://cumulus-clouds.netlify.app/%E7%A2%8E%E7%89%87/%E6%96%B0%E9%97%BB%E7%A2%8E%E7%89%87/01%E9%9F%A9%E5%9B%BD%E6%A3%80%E6%96%B9%E4%BB%A5%E6%B8%8E%E8%81%8C%E7%AD%89%E7%BD%AA%E5%90%8D%E6%89%B9%E5%87%86%E9%80%AE%E6%8D%95%E6%9D%8E%E5%9C%A8%E6%98%8E/)
-
+![Pasted image 20231017111538.png](/img/user/Pasted%20image%2020231017111538.png)
 # 正念
 ==“即受观受，即⼼观⼼。“==
 ```
