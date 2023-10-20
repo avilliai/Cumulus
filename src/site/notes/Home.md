@@ -8,7 +8,7 @@
 # About Me
 政治学专业在校生，业余写代码。
 [github主页](https://github.com/avilliai)
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilliai&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=#7d7d7d&theme=graywhite" /> 
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avilliai&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=#7d7d7d&theme=tokyonight)
 
 ![Avilliai's GitHub stats](https://github-readme-stats.vercel.app/api?username=avilliai&show_icons=true&theme=tokyonight)
 # Category
