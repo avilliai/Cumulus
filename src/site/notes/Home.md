@@ -27,7 +27,7 @@
 ## 社会学类
 [《乡土中国》(cumulus-clouds.netlify.app)](https://cumulus-clouds.netlify.app/%E7%A4%BE%E4%BC%9A/%E7%AC%94%E8%AE%B0/%E4%B9%A1%E5%9C%9F%E4%B8%AD%E5%9B%BD/01%E4%B9%A1%E5%9C%9F%E6%9C%AC%E8%89%B2/)
 [《基本收入》(cumulus-clouds.netlify.app)](https://cumulus-clouds.netlify.app/%E7%A4%BE%E4%BC%9A/%E5%9F%BA%E6%9C%AC%E6%94%B6%E5%85%A5/menu/)
-《西方现代思想讲义》
+[[社会/西方现代思想讲义/刘擎《西方现代思想讲义》 笔记目录\|刘擎《西方现代思想讲义》 笔记目录]]
 《狗屁工作》
 ## 经济类
 《置身事内》
@@ -41,16 +41,8 @@
 ## 新闻记录
 [01韩国检方以渎职等罪名批准逮捕李在明 (cumulus-clouds.netlify.app)](https://cumulus-clouds.netlify.app/%E7%A2%8E%E7%89%87/%E6%96%B0%E9%97%BB%E7%A2%8E%E7%89%87/01%E9%9F%A9%E5%9B%BD%E6%A3%80%E6%96%B9%E4%BB%A5%E6%B8%8E%E8%81%8C%E7%AD%89%E7%BD%AA%E5%90%8D%E6%89%B9%E5%87%86%E9%80%AE%E6%8D%95%E6%9D%8E%E5%9C%A8%E6%98%8E/)
 ![Pasted image 20231017111538.png](/img/user/source/Pasted%20image%2020231017111538.png)
-# 正念
-==“即受观受，即⼼观⼼。“==
-```
-化为树篱中静静坐着的芽， 
-化为微笑，成为这不可思议的存在的⼀部分， 
-凝⽴在这⼉，⽆须启程。 
-这块⼟地，就像我⼉时的故⼟那样美丽， 请不要伤害它，请继续歌唱。
-								——《⾦芥菜花⽥上的蝴蝶》
-```
 
+==⼈类因为理性⽽伟⼤，因为知道理性的局限⽽成熟==。
 # 友链
 [raonb的芝士库](https://raonb.netlify.app/)
 
