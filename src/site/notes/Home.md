@@ -2,6 +2,7 @@
 {"title":"☁Cumulus","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
+==⼈类因为理性⽽伟⼤，因为知道理性的局限⽽成熟==。
 # Welcome
 欢迎，这里用于存放我的笔记，会逐渐把整理好的部分同步上来。
 
@@ -40,9 +41,9 @@
 
 ## 新闻记录
 [01韩国检方以渎职等罪名批准逮捕李在明 (cumulus-clouds.netlify.app)](https://cumulus-clouds.netlify.app/%E7%A2%8E%E7%89%87/%E6%96%B0%E9%97%BB%E7%A2%8E%E7%89%87/01%E9%9F%A9%E5%9B%BD%E6%A3%80%E6%96%B9%E4%BB%A5%E6%B8%8E%E8%81%8C%E7%AD%89%E7%BD%AA%E5%90%8D%E6%89%B9%E5%87%86%E9%80%AE%E6%8D%95%E6%9D%8E%E5%9C%A8%E6%98%8E/)
-![Pasted image 20231017111538.png](/img/user/source/Pasted%20image%2020231017111538.png)
+![Pasted image 20231109203856.png](/img/user/Pasted%20image%2020231109203856.png)
 
-==⼈类因为理性⽽伟⼤，因为知道理性的局限⽽成熟==。
+
 # 友链
 [raonb的芝士库](https://raonb.netlify.app/)
 
