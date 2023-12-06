@@ -5,7 +5,7 @@
 ==⼈类因为理性⽽伟⼤，因为知道理性的局限⽽成熟==。
 # Welcome
 欢迎，这里用于存放我的笔记，会逐渐把整理好的部分同步上来。
-[Moe Count (moe-counter.glitch.me)](https://moe-counter.glitch.me/get/@:cumulus)
+![Moe Count (moe-counter.glitch.me)](https://moe-counter.glitch.me/get/@:cumulus)
 # About Me
 政治学专业在校生，业余写代码。
 [github主页](https://github.com/avilliai)
