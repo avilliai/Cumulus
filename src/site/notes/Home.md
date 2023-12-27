@@ -2,7 +2,6 @@
 {"title":"☁Cumulus","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
-==⼈类因为理性⽽伟⼤，因为知道理性的局限⽽成熟==。
 # Welcome
 欢迎，这里用于存放我的笔记，会逐渐把整理好的部分同步上来。
 ![Moe Count (moe-counter.glitch.me)](https://moe-counter.glitch.me/get/@:cumulus)
@@ -86,7 +85,7 @@
 ## 零散的概念探讨
 [[碎片/概念探讨/符号消费\|符号消费]]
 [[碎片/概念探讨/群体性孤独\|群体性孤独]]
-[[碎片/概念探讨/穷忙 不平等问题\|穷忙 不平等问题]]
+[[碎片/概念探讨/穷忙 不平等正在引发社会崩溃\|穷忙 不平等正在引发社会崩溃]]
 [[碎片/概念探讨/解构主义\|解构主义]]
 [[碎片/概念探讨/优绩主义\|优绩主义]]
 [[碎片/概念探讨/优绩主义1\|优绩主义1]]
