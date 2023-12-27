@@ -5,9 +5,12 @@
 # Welcome
 欢迎，这里用于存放我的笔记，会逐渐把整理好的部分同步上来。
 ![Moe Count (moe-counter.glitch.me)](https://moe-counter.glitch.me/get/@:cumulus)
+
 # About Me
 政治学专业在校生，业余写代码。
 [github主页](https://github.com/avilliai)
+[博客/内容输出](https://avilliai.github.io)
+公众号：Cumulus积雨云
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avilliai&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=#7d7d7d&theme=tokyonight)
 
 ![Avilliai's GitHub stats](https://github-readme-stats.vercel.app/api?username=avilliai&show_icons=true&theme=tokyonight)
