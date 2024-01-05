@@ -1,9 +1,9 @@
 ---
-{"title":"☁Cumulus","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"☁Cumulus","dg-home":true,"dg-publish":true,"permalink":"/Home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"updated":"2024-01-05T16:47:39.658+08:00"}
 ---
 
 # Welcome
-欢迎，这里用于存放我的笔记，会逐渐把整理好的部分同步上来。
+byd笔记仓库
 ![Moe Count (moe-counter.glitch.me)](https://moe-counter.glitch.me/get/@:cumulus)
 
 # About Me
